@@ -3,6 +3,6 @@ metadata:
   name: my-first-rg
   path: /my-first-org/my-first-folder
 spec:
-  displayName: "My First RG"
+  displayName: "My First RG - Updated"
   description: " My description"
 type: ResourceGroup
