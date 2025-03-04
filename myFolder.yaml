@@ -1,0 +1,8 @@
+apiVersion: accounts.resource.api.sap/v1
+metadata:
+  name: my-first-folder
+  path: /my-first-org
+spec:
+  displayName: "My First Folder"
+  description: " My description"
+type: Folder
